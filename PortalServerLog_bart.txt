@@ -1,0 +1,238 @@
+19:18:25 ----> bart: criado socket
+19:18:25 ----> bart: realizado bind() na porta: 2345
+19:18:25 ----> bart: esperando por conexão
+19:18:25 ----> -------------------------------------------------------------------------------------------------------------
+19:18:36 ----> bart: realizada conexão com cliente
+19:18:47 ----> bart: recebida mensagem do cliente: dorno
+19:18:47 ----> bart: utilizado escalonamento Aleatório
+19:18:47 ----> bart: criado socket para a conexão com o servidor de processamento: ploc na porta 1235
+19:18:47 ----> bart: estabelecida conexão com o servidor de processamento: ploc
+19:18:47 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: ploc
+19:18:47 ----> bart: ------------------------------------------------------------------------------
+19:18:47 ----> bart: | esperando servidor de processamento: ploc retornar com a resposta |
+19:18:47 ----> bart: ------------------------------------------------------------------------------
+19:18:47 ----> bart: recebida resposta da execução do servidor de processamento: ploc
+19:18:47 ----> bart: socket de comunicação fechado
+19:18:47 ----> bart: enviado resultado da execução para o cliente: dorno
+19:18:47 ----> -------------------------------------------------------------------------------------------------------------
+19:18:48 ----> bart: realizada conexão com cliente
+19:18:52 ----> bart: recebida mensagem do cliente: dorno
+19:18:52 ----> bart: utilizado escalonamento Aleatório
+19:18:52 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:18:52 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:18:52 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:18:52 ----> bart: ------------------------------------------------------------------------------
+19:18:52 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:18:52 ----> bart: ------------------------------------------------------------------------------
+19:18:53 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:18:53 ----> bart: socket de comunicação fechado
+19:18:53 ----> bart: enviado resultado da execução para o cliente: dorno
+19:18:53 ----> -------------------------------------------------------------------------------------------------------------
+19:18:54 ----> bart: realizada conexão com cliente
+19:19:00 ----> bart: recebida mensagem do cliente: dorno
+19:19:00 ----> bart: utilizado escalonamento Aleatório
+19:19:00 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:19:00 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:19:00 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:19:00 ----> bart: ------------------------------------------------------------------------------
+19:19:00 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:19:00 ----> bart: ------------------------------------------------------------------------------
+19:19:00 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:19:00 ----> bart: socket de comunicação fechado
+19:19:00 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:00 ----> -------------------------------------------------------------------------------------------------------------
+19:19:03 ----> bart: realizada conexão com cliente
+19:19:11 ----> bart: recebida mensagem do cliente: dorno
+19:19:11 ----> bart: utilizado escalonamento Aleatório
+19:19:11 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:19:11 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:19:11 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:19:11 ----> bart: ------------------------------------------------------------------------------
+19:19:11 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:19:11 ----> bart: ------------------------------------------------------------------------------
+19:19:11 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:19:11 ----> bart: socket de comunicação fechado
+19:19:11 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:11 ----> -------------------------------------------------------------------------------------------------------------
+19:19:12 ----> bart: realizada conexão com cliente
+19:19:18 ----> bart: recebida mensagem do cliente: dorno
+19:19:18 ----> bart: utilizado escalonamento Aleatório
+19:19:18 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:19:18 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:19:18 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:19:18 ----> bart: ------------------------------------------------------------------------------
+19:19:18 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:19:18 ----> bart: ------------------------------------------------------------------------------
+19:19:18 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:19:18 ----> bart: socket de comunicação fechado
+19:19:18 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:18 ----> -------------------------------------------------------------------------------------------------------------
+19:19:19 ----> bart: realizada conexão com cliente
+19:19:23 ----> bart: recebida mensagem do cliente: dorno
+19:19:23 ----> bart: utilizado escalonamento Aleatório
+19:19:23 ----> bart: criado socket para a conexão com o servidor de processamento: ploc na porta 1235
+19:19:23 ----> bart: estabelecida conexão com o servidor de processamento: ploc
+19:19:23 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: ploc
+19:19:23 ----> bart: ------------------------------------------------------------------------------
+19:19:23 ----> bart: | esperando servidor de processamento: ploc retornar com a resposta |
+19:19:23 ----> bart: ------------------------------------------------------------------------------
+19:19:23 ----> bart: recebida resposta da execução do servidor de processamento: ploc
+19:19:23 ----> bart: socket de comunicação fechado
+19:19:23 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:23 ----> -------------------------------------------------------------------------------------------------------------
+19:19:25 ----> bart: realizada conexão com cliente
+19:19:30 ----> bart: recebida mensagem do cliente: dorno
+19:19:30 ----> bart: utilizado escalonamento Aleatório
+19:19:30 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:19:30 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:19:30 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:19:30 ----> bart: ------------------------------------------------------------------------------
+19:19:30 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:19:30 ----> bart: ------------------------------------------------------------------------------
+19:19:30 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:19:30 ----> bart: socket de comunicação fechado
+19:19:30 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:30 ----> -------------------------------------------------------------------------------------------------------------
+19:19:32 ----> bart: realizada conexão com cliente
+19:19:40 ----> bart: recebida mensagem do cliente: dorno
+19:19:40 ----> bart: utilizado escalonamento Aleatório
+19:19:40 ----> bart: criado socket para a conexão com o servidor de processamento: ploc na porta 1235
+19:19:40 ----> bart: estabelecida conexão com o servidor de processamento: ploc
+19:19:40 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: ploc
+19:19:40 ----> bart: ------------------------------------------------------------------------------
+19:19:40 ----> bart: | esperando servidor de processamento: ploc retornar com a resposta |
+19:19:40 ----> bart: ------------------------------------------------------------------------------
+19:19:40 ----> bart: recebida resposta da execução do servidor de processamento: ploc
+19:19:40 ----> bart: socket de comunicação fechado
+19:19:40 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:40 ----> -------------------------------------------------------------------------------------------------------------
+19:19:43 ----> bart: realizada conexão com cliente
+19:19:49 ----> bart: recebida mensagem do cliente: dorno
+19:19:49 ----> bart: utilizado escalonamento Aleatório
+19:19:49 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:19:49 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:19:49 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:19:49 ----> bart: ------------------------------------------------------------------------------
+19:19:49 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:19:49 ----> bart: ------------------------------------------------------------------------------
+19:19:49 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:19:49 ----> bart: socket de comunicação fechado
+19:19:49 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:49 ----> -------------------------------------------------------------------------------------------------------------
+19:19:55 ----> bart: realizada conexão com cliente
+19:19:59 ----> bart: recebida mensagem do cliente: dorno
+19:19:59 ----> bart: utilizado escalonamento Round-Robin
+19:19:59 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:19:59 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:19:59 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:19:59 ----> bart: ------------------------------------------------------------------------------
+19:19:59 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:19:59 ----> bart: ------------------------------------------------------------------------------
+19:19:59 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:19:59 ----> bart: socket de comunicação fechado
+19:19:59 ----> bart: enviado resultado da execução para o cliente: dorno
+19:19:59 ----> -------------------------------------------------------------------------------------------------------------
+19:20:01 ----> bart: realizada conexão com cliente
+19:20:06 ----> bart: recebida mensagem do cliente: dorno
+19:20:06 ----> bart: utilizado escalonamento Round-Robin
+19:20:06 ----> bart: criado socket para a conexão com o servidor de processamento: ploc na porta 1235
+19:20:06 ----> bart: estabelecida conexão com o servidor de processamento: ploc
+19:20:06 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: ploc
+19:20:06 ----> bart: ------------------------------------------------------------------------------
+19:20:06 ----> bart: | esperando servidor de processamento: ploc retornar com a resposta |
+19:20:06 ----> bart: ------------------------------------------------------------------------------
+19:20:06 ----> bart: recebida resposta da execução do servidor de processamento: ploc
+19:20:06 ----> bart: socket de comunicação fechado
+19:20:06 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:06 ----> -------------------------------------------------------------------------------------------------------------
+19:20:08 ----> bart: realizada conexão com cliente
+19:20:14 ----> bart: recebida mensagem do cliente: dorno
+19:20:14 ----> bart: utilizado escalonamento Round-Robin
+19:20:14 ----> bart: criado socket para a conexão com o servidor de processamento: dorno na porta 1236
+19:20:14 ----> bart: estabelecida conexão com o servidor de processamento: dorno
+19:20:14 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: dorno
+19:20:14 ----> bart: ------------------------------------------------------------------------------
+19:20:14 ----> bart: | esperando servidor de processamento: dorno retornar com a resposta |
+19:20:14 ----> bart: ------------------------------------------------------------------------------
+19:20:14 ----> bart: recebida resposta da execução do servidor de processamento: dorno
+19:20:14 ----> bart: socket de comunicação fechado
+19:20:14 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:14 ----> -------------------------------------------------------------------------------------------------------------
+19:20:17 ----> bart: realizada conexão com cliente
+19:20:25 ----> bart: recebida mensagem do cliente: dorno
+19:20:25 ----> bart: utilizado escalonamento Round-Robin
+19:20:25 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:20:25 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:20:25 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:20:25 ----> bart: ------------------------------------------------------------------------------
+19:20:25 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:20:25 ----> bart: ------------------------------------------------------------------------------
+19:20:25 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:20:25 ----> bart: socket de comunicação fechado
+19:20:25 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:25 ----> -------------------------------------------------------------------------------------------------------------
+19:20:27 ----> bart: realizada conexão com cliente
+19:20:31 ----> bart: recebida mensagem do cliente: dorno
+19:20:31 ----> bart: utilizado escalonamento Round-Robin
+19:20:31 ----> bart: criado socket para a conexão com o servidor de processamento: ploc na porta 1235
+19:20:31 ----> bart: estabelecida conexão com o servidor de processamento: ploc
+19:20:31 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: ploc
+19:20:31 ----> bart: ------------------------------------------------------------------------------
+19:20:31 ----> bart: | esperando servidor de processamento: ploc retornar com a resposta |
+19:20:31 ----> bart: ------------------------------------------------------------------------------
+19:20:31 ----> bart: recebida resposta da execução do servidor de processamento: ploc
+19:20:31 ----> bart: socket de comunicação fechado
+19:20:31 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:31 ----> -------------------------------------------------------------------------------------------------------------
+19:20:33 ----> bart: realizada conexão com cliente
+19:20:36 ----> bart: recebida mensagem do cliente: dorno
+19:20:36 ----> bart: utilizado escalonamento Round-Robin
+19:20:36 ----> bart: criado socket para a conexão com o servidor de processamento: dorno na porta 1236
+19:20:36 ----> bart: estabelecida conexão com o servidor de processamento: dorno
+19:20:36 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: dorno
+19:20:36 ----> bart: ------------------------------------------------------------------------------
+19:20:36 ----> bart: | esperando servidor de processamento: dorno retornar com a resposta |
+19:20:36 ----> bart: ------------------------------------------------------------------------------
+19:20:36 ----> bart: recebida resposta da execução do servidor de processamento: dorno
+19:20:36 ----> bart: socket de comunicação fechado
+19:20:36 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:36 ----> -------------------------------------------------------------------------------------------------------------
+19:20:37 ----> bart: realizada conexão com cliente
+19:20:42 ----> bart: recebida mensagem do cliente: dorno
+19:20:42 ----> bart: utilizado escalonamento Round-Robin
+19:20:42 ----> bart: criado socket para a conexão com o servidor de processamento: bart na porta 1234
+19:20:42 ----> bart: estabelecida conexão com o servidor de processamento: bart
+19:20:42 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: bart
+19:20:42 ----> bart: ------------------------------------------------------------------------------
+19:20:42 ----> bart: | esperando servidor de processamento: bart retornar com a resposta |
+19:20:42 ----> bart: ------------------------------------------------------------------------------
+19:20:42 ----> bart: recebida resposta da execução do servidor de processamento: bart
+19:20:42 ----> bart: socket de comunicação fechado
+19:20:42 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:42 ----> -------------------------------------------------------------------------------------------------------------
+19:20:43 ----> bart: realizada conexão com cliente
+19:20:50 ----> bart: recebida mensagem do cliente: dorno
+19:20:50 ----> bart: utilizado escalonamento Round-Robin
+19:20:50 ----> bart: criado socket para a conexão com o servidor de processamento: ploc na porta 1235
+19:20:50 ----> bart: estabelecida conexão com o servidor de processamento: ploc
+19:20:50 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: ploc
+19:20:50 ----> bart: ------------------------------------------------------------------------------
+19:20:50 ----> bart: | esperando servidor de processamento: ploc retornar com a resposta |
+19:20:50 ----> bart: ------------------------------------------------------------------------------
+19:20:50 ----> bart: recebida resposta da execução do servidor de processamento: ploc
+19:20:50 ----> bart: socket de comunicação fechado
+19:20:50 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:50 ----> -------------------------------------------------------------------------------------------------------------
+19:20:51 ----> bart: realizada conexão com cliente
+19:20:55 ----> bart: recebida mensagem do cliente: dorno
+19:20:55 ----> bart: utilizado escalonamento Round-Robin
+19:20:55 ----> bart: criado socket para a conexão com o servidor de processamento: dorno na porta 1236
+19:20:55 ----> bart: estabelecida conexão com o servidor de processamento: dorno
+19:20:55 ----> bart: enviado arquivo fonte (do cliente) ao servidor de processamento: dorno
+19:20:55 ----> bart: ------------------------------------------------------------------------------
+19:20:55 ----> bart: | esperando servidor de processamento: dorno retornar com a resposta |
+19:20:55 ----> bart: ------------------------------------------------------------------------------
+19:20:55 ----> bart: recebida resposta da execução do servidor de processamento: dorno
+19:20:55 ----> bart: socket de comunicação fechado
+19:20:55 ----> bart: enviado resultado da execução para o cliente: dorno
+19:20:55 ----> -------------------------------------------------------------------------------------------------------------

@@ -74,11 +74,14 @@ except socket.error, ( errno, errmsg ):
     s.close()
     ClientLog.logMessage( "Erro ao enviar a mensagem: " + str( errno ) + ": " + str( errmsg ) )
     sys.exit( 1 ) 
+    
+ClientLog.logMessage(host + ": ---------------------------------------------------------------------")
+ClientLog.logMessage(host + ": | esperando servidor portal: " + server + " retornar com a resposta |")
+ClientLog.logMessage(host + ": ---------------------------------------------------------------------")
 
 """ Check if client received the return message """
 try:
     string = Transmition.Recv(s)
-    #ClientLog.logMessage( host + ": recebimento da string de retorno")
 except socket.error, ( errno, errmsg ):
     s.close()
     ClientLog.logMessage( "Erro ao receber resultado da execução: " + str( errno ) + ": " + str( errmsg ) )

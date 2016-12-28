@@ -1,0 +1,40 @@
+19:18:09 ----> ploc: criado socket
+19:18:09 ----> ploc: realizado bind() na porta: 1235
+19:18:09 ----> ploc: esperando por conexão (listen())
+19:18:09 ----> -------------------------------------------------------------------------------------------------------------
+19:18:47 ----> ploc: estabelecida conexão com servidor portal
+19:18:47 ----> ploc: recebido arquivo fonte (teste.py) do servidor portal: bart
+19:18:47 ----> ploc: criado arquivo fonte (teste.py) do cliente: dorno
+19:18:47 ----> ploc: arquivo fonte compilado e executado
+19:18:47 ----> ploc: enviada resposta de execução ao servidor portal: ploc
+19:18:47 ----> -------------------------------------------------------------------------------------------------------------
+19:19:23 ----> ploc: estabelecida conexão com servidor portal
+19:19:23 ----> ploc: recebido arquivo fonte (lista.py) do servidor portal: bart
+19:19:23 ----> ploc: criado arquivo fonte (lista.py) do cliente: dorno
+19:19:23 ----> ploc: arquivo fonte compilado e executado
+19:19:23 ----> ploc: enviada resposta de execução ao servidor portal: ploc
+19:19:23 ----> -------------------------------------------------------------------------------------------------------------
+19:19:40 ----> ploc: estabelecida conexão com servidor portal
+19:19:40 ----> ploc: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: bart
+19:19:40 ----> ploc: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:19:40 ----> ploc: arquivo fonte compilado e executado
+19:19:40 ----> ploc: enviada resposta de execução ao servidor portal: ploc
+19:19:40 ----> -------------------------------------------------------------------------------------------------------------
+19:20:06 ----> ploc: estabelecida conexão com servidor portal
+19:20:06 ----> ploc: recebido arquivo fonte (lista.py) do servidor portal: bart
+19:20:06 ----> ploc: criado arquivo fonte (lista.py) do cliente: dorno
+19:20:06 ----> ploc: arquivo fonte compilado e executado
+19:20:06 ----> ploc: enviada resposta de execução ao servidor portal: ploc
+19:20:06 ----> -------------------------------------------------------------------------------------------------------------
+19:20:31 ----> ploc: estabelecida conexão com servidor portal
+19:20:31 ----> ploc: recebido arquivo fonte (teste.py) do servidor portal: bart
+19:20:31 ----> ploc: criado arquivo fonte (teste.py) do cliente: dorno
+19:20:31 ----> ploc: arquivo fonte compilado e executado
+19:20:31 ----> ploc: enviada resposta de execução ao servidor portal: ploc
+19:20:31 ----> -------------------------------------------------------------------------------------------------------------
+19:20:50 ----> ploc: estabelecida conexão com servidor portal
+19:20:50 ----> ploc: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: bart
+19:20:50 ----> ploc: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:20:50 ----> ploc: arquivo fonte compilado e executado
+19:20:50 ----> ploc: enviada resposta de execução ao servidor portal: ploc
+19:20:50 ----> -------------------------------------------------------------------------------------------------------------

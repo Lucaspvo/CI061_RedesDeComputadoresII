@@ -1,126 +1,162 @@
-19:06:15 ----> Foi criado o socket no cliente: dorno!
-19:06:15 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:06:22 ----> dorno: enviada mensagem!
-19:06:22 ----> dorno: recebimento da string de retorno
-19:06:22 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: ploc
-19:06:22 ----> dorno: encerramento da conexão!
-19:06:22 ----> -------------------------------------------------------------------------------------------------------------
-19:06:24 ----> Foi criado o socket no cliente: dorno!
-19:06:24 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:06:43 ----> dorno: enviada mensagem!
-19:06:43 ----> dorno: recebimento da string de retorno
-19:06:43 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: bart
-19:06:43 ----> dorno: encerramento da conexão!
-19:06:43 ----> -------------------------------------------------------------------------------------------------------------
-19:08:19 ----> Foi criado o socket no cliente: dorno!
-19:08:19 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:08:31 ----> dorno: enviada mensagem!
-19:08:31 ----> dorno: recebimento da string de retorno
-19:08:31 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: bart
-19:08:31 ----> dorno: encerramento da conexão!
-19:08:31 ----> -------------------------------------------------------------------------------------------------------------
-19:08:34 ----> Foi criado o socket no cliente: dorno!
-19:08:34 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:08:42 ----> dorno: enviada mensagem!
-19:08:43 ----> dorno: recebimento da string de retorno
-19:08:43 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: ploc
-19:08:43 ----> dorno: encerramento da conexão!
-19:08:43 ----> -------------------------------------------------------------------------------------------------------------
-19:08:47 ----> Foi criado o socket no cliente: dorno!
-19:08:47 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:08:57 ----> dorno: enviada mensagem!
-19:08:57 ----> dorno: recebimento da string de retorno
-19:08:57 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: dorno
-19:08:57 ----> dorno: encerramento da conexão!
-19:08:57 ----> -------------------------------------------------------------------------------------------------------------
-19:09:04 ----> Foi criado o socket no cliente: dorno!
-19:09:04 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:09:12 ----> dorno: enviada mensagem!
-19:09:12 ----> dorno: recebimento da string de retorno
-19:09:12 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: ploc
-19:09:12 ----> dorno: encerramento da conexão!
-19:09:12 ----> -------------------------------------------------------------------------------------------------------------
-19:09:17 ----> Foi criado o socket no cliente: dorno!
-19:09:17 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:09:37 ----> dorno: enviada mensagem!
-19:09:37 ----> dorno: recebimento da string de retorno
-19:09:37 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: ploc
-19:09:37 ----> dorno: encerramento da conexão!
-19:09:37 ----> -------------------------------------------------------------------------------------------------------------
-19:09:39 ----> Foi criado o socket no cliente: dorno!
-19:09:39 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:09:47 ----> dorno: enviada mensagem!
-19:09:47 ----> dorno: recebimento da string de retorno
-19:09:47 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: dorno
-19:09:47 ----> dorno: encerramento da conexão!
-19:09:47 ----> -------------------------------------------------------------------------------------------------------------
-19:09:49 ----> Foi criado o socket no cliente: dorno!
-19:09:49 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:09:59 ----> dorno: enviada mensagem!
-19:09:59 ----> dorno: recebimento da string de retorno
-19:09:59 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: bart
-19:09:59 ----> dorno: encerramento da conexão!
-19:09:59 ----> -------------------------------------------------------------------------------------------------------------
-19:10:03 ----> Foi criado o socket no cliente: dorno!
-19:10:03 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:10:07 ----> dorno: enviada mensagem!
-19:10:07 ----> dorno: recebimento da string de retorno
-19:10:07 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: dorno
-19:10:07 ----> dorno: encerramento da conexão!
-19:10:07 ----> -------------------------------------------------------------------------------------------------------------
-19:10:08 ----> Foi criado o socket no cliente: dorno!
-19:10:08 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:10:14 ----> dorno: enviada mensagem!
-19:10:14 ----> dorno: recebimento da string de retorno
-19:10:14 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: dorno
-19:10:14 ----> dorno: encerramento da conexão!
-19:10:14 ----> -------------------------------------------------------------------------------------------------------------
-19:10:16 ----> Foi criado o socket no cliente: dorno!
-19:10:16 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:10:24 ----> dorno: enviada mensagem!
-19:10:25 ----> dorno: recebimento da string de retorno
-19:10:25 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: ploc
-19:10:25 ----> dorno: encerramento da conexão!
-19:10:25 ----> -------------------------------------------------------------------------------------------------------------
-19:10:28 ----> Foi criado o socket no cliente: dorno!
-19:10:28 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:10:32 ----> dorno: enviada mensagem!
-19:10:32 ----> dorno: recebimento da string de retorno
-19:10:32 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: bart
-19:10:32 ----> dorno: encerramento da conexão!
-19:10:32 ----> -------------------------------------------------------------------------------------------------------------
-19:10:36 ----> Foi criado o socket no cliente: dorno!
-19:10:36 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:10:43 ----> dorno: enviada mensagem!
-19:10:44 ----> dorno: recebimento da string de retorno
-19:10:44 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: ploc
-19:10:44 ----> dorno: encerramento da conexão!
-19:10:44 ----> -------------------------------------------------------------------------------------------------------------
-19:10:45 ----> Foi criado o socket no cliente: dorno!
-19:10:45 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:10:50 ----> dorno: enviada mensagem!
-19:10:50 ----> dorno: recebimento da string de retorno
-19:10:50 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: dorno
-19:10:50 ----> dorno: encerramento da conexão!
-19:10:50 ----> -------------------------------------------------------------------------------------------------------------
-19:10:53 ----> Foi criado o socket no cliente: dorno!
-19:10:53 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:11:02 ----> dorno: enviada mensagem!
-19:11:02 ----> dorno: recebimento da string de retorno
-19:11:02 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: bart
-19:11:02 ----> dorno: encerramento da conexão!
-19:11:02 ----> -------------------------------------------------------------------------------------------------------------
-19:11:03 ----> Foi criado o socket no cliente: dorno!
-19:11:03 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:11:09 ----> dorno: enviada mensagem!
-19:11:09 ----> dorno: recebimento da string de retorno
-19:11:09 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: ploc
-19:11:09 ----> dorno: encerramento da conexão!
-19:11:09 ----> -------------------------------------------------------------------------------------------------------------
-19:11:11 ----> Foi criado o socket no cliente: dorno!
-19:11:11 ----> dorno: estabeleceu conexão: servidor portal: bart!
-19:11:14 ----> dorno: enviada mensagem!
-19:11:14 ----> dorno: recebimento da string de retorno
-19:11:14 ----> dorno: recebimento do pacote com o resultado da execução do programa do servidor: dorno
-19:11:14 ----> dorno: encerramento da conexão!
-19:11:14 ----> -------------------------------------------------------------------------------------------------------------
+19:18:36 ----> Foi criado o socket no cliente: dorno
+19:18:36 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:18:47 ----> dorno: enviado arquivo fonte (teste.py) ao servidor portal: bart
+19:18:47 ----> dorno: ---------------------------------------------------------------------
+19:18:47 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:18:47 ----> dorno: ---------------------------------------------------------------------
+19:18:47 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: ploc
+19:18:47 ----> dorno: encerramento da conexão
+19:18:47 ----> -------------------------------------------------------------------------------------------------------------
+19:18:48 ----> Foi criado o socket no cliente: dorno
+19:18:48 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:18:52 ----> dorno: enviado arquivo fonte (lista.py) ao servidor portal: bart
+19:18:52 ----> dorno: ---------------------------------------------------------------------
+19:18:52 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:18:52 ----> dorno: ---------------------------------------------------------------------
+19:18:53 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:18:53 ----> dorno: encerramento da conexão
+19:18:53 ----> -------------------------------------------------------------------------------------------------------------
+19:18:54 ----> Foi criado o socket no cliente: dorno
+19:18:54 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:00 ----> dorno: enviado arquivo fonte (fibonacci.py) ao servidor portal: bart
+19:19:00 ----> dorno: ---------------------------------------------------------------------
+19:19:00 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:00 ----> dorno: ---------------------------------------------------------------------
+19:19:00 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:19:00 ----> dorno: encerramento da conexão
+19:19:00 ----> -------------------------------------------------------------------------------------------------------------
+19:19:03 ----> Foi criado o socket no cliente: dorno
+19:19:03 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:11 ----> dorno: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: bart
+19:19:11 ----> dorno: ---------------------------------------------------------------------
+19:19:11 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:11 ----> dorno: ---------------------------------------------------------------------
+19:19:11 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:19:11 ----> dorno: encerramento da conexão
+19:19:11 ----> -------------------------------------------------------------------------------------------------------------
+19:19:12 ----> Foi criado o socket no cliente: dorno
+19:19:12 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:18 ----> dorno: enviado arquivo fonte (teste.py) ao servidor portal: bart
+19:19:18 ----> dorno: ---------------------------------------------------------------------
+19:19:18 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:18 ----> dorno: ---------------------------------------------------------------------
+19:19:18 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:19:18 ----> dorno: encerramento da conexão
+19:19:18 ----> -------------------------------------------------------------------------------------------------------------
+19:19:19 ----> Foi criado o socket no cliente: dorno
+19:19:19 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:23 ----> dorno: enviado arquivo fonte (lista.py) ao servidor portal: bart
+19:19:23 ----> dorno: ---------------------------------------------------------------------
+19:19:23 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:23 ----> dorno: ---------------------------------------------------------------------
+19:19:23 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: ploc
+19:19:23 ----> dorno: encerramento da conexão
+19:19:23 ----> -------------------------------------------------------------------------------------------------------------
+19:19:25 ----> Foi criado o socket no cliente: dorno
+19:19:25 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:30 ----> dorno: enviado arquivo fonte (fibonacci.py) ao servidor portal: bart
+19:19:30 ----> dorno: ---------------------------------------------------------------------
+19:19:30 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:30 ----> dorno: ---------------------------------------------------------------------
+19:19:30 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:19:30 ----> dorno: encerramento da conexão
+19:19:30 ----> -------------------------------------------------------------------------------------------------------------
+19:19:32 ----> Foi criado o socket no cliente: dorno
+19:19:32 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:40 ----> dorno: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: bart
+19:19:40 ----> dorno: ---------------------------------------------------------------------
+19:19:40 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:40 ----> dorno: ---------------------------------------------------------------------
+19:19:40 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: ploc
+19:19:40 ----> dorno: encerramento da conexão
+19:19:40 ----> -------------------------------------------------------------------------------------------------------------
+19:19:43 ----> Foi criado o socket no cliente: dorno
+19:19:43 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:49 ----> dorno: enviado arquivo fonte (lista.py) ao servidor portal: bart
+19:19:49 ----> dorno: ---------------------------------------------------------------------
+19:19:49 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:49 ----> dorno: ---------------------------------------------------------------------
+19:19:49 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:19:49 ----> dorno: encerramento da conexão
+19:19:49 ----> -------------------------------------------------------------------------------------------------------------
+19:19:55 ----> Foi criado o socket no cliente: dorno
+19:19:55 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:19:59 ----> dorno: enviado arquivo fonte (teste.py) ao servidor portal: bart
+19:19:59 ----> dorno: ---------------------------------------------------------------------
+19:19:59 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:19:59 ----> dorno: ---------------------------------------------------------------------
+19:19:59 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:19:59 ----> dorno: encerramento da conexão
+19:19:59 ----> -------------------------------------------------------------------------------------------------------------
+19:20:01 ----> Foi criado o socket no cliente: dorno
+19:20:01 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:06 ----> dorno: enviado arquivo fonte (lista.py) ao servidor portal: bart
+19:20:06 ----> dorno: ---------------------------------------------------------------------
+19:20:06 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:06 ----> dorno: ---------------------------------------------------------------------
+19:20:06 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: ploc
+19:20:06 ----> dorno: encerramento da conexão
+19:20:06 ----> -------------------------------------------------------------------------------------------------------------
+19:20:08 ----> Foi criado o socket no cliente: dorno
+19:20:08 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:14 ----> dorno: enviado arquivo fonte (fibonacci.py) ao servidor portal: bart
+19:20:14 ----> dorno: ---------------------------------------------------------------------
+19:20:14 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:14 ----> dorno: ---------------------------------------------------------------------
+19:20:14 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: dorno
+19:20:14 ----> dorno: encerramento da conexão
+19:20:14 ----> -------------------------------------------------------------------------------------------------------------
+19:20:17 ----> Foi criado o socket no cliente: dorno
+19:20:17 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:25 ----> dorno: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: bart
+19:20:25 ----> dorno: ---------------------------------------------------------------------
+19:20:25 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:25 ----> dorno: ---------------------------------------------------------------------
+19:20:25 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:20:25 ----> dorno: encerramento da conexão
+19:20:25 ----> -------------------------------------------------------------------------------------------------------------
+19:20:27 ----> Foi criado o socket no cliente: dorno
+19:20:27 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:31 ----> dorno: enviado arquivo fonte (teste.py) ao servidor portal: bart
+19:20:31 ----> dorno: ---------------------------------------------------------------------
+19:20:31 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:31 ----> dorno: ---------------------------------------------------------------------
+19:20:31 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: ploc
+19:20:31 ----> dorno: encerramento da conexão
+19:20:31 ----> -------------------------------------------------------------------------------------------------------------
+19:20:33 ----> Foi criado o socket no cliente: dorno
+19:20:33 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:36 ----> dorno: enviado arquivo fonte (lista.py) ao servidor portal: bart
+19:20:36 ----> dorno: ---------------------------------------------------------------------
+19:20:36 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:36 ----> dorno: ---------------------------------------------------------------------
+19:20:36 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: dorno
+19:20:36 ----> dorno: encerramento da conexão
+19:20:36 ----> -------------------------------------------------------------------------------------------------------------
+19:20:37 ----> Foi criado o socket no cliente: dorno
+19:20:37 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:42 ----> dorno: enviado arquivo fonte (fibonacci.py) ao servidor portal: bart
+19:20:42 ----> dorno: ---------------------------------------------------------------------
+19:20:42 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:42 ----> dorno: ---------------------------------------------------------------------
+19:20:42 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: bart
+19:20:42 ----> dorno: encerramento da conexão
+19:20:42 ----> -------------------------------------------------------------------------------------------------------------
+19:20:43 ----> Foi criado o socket no cliente: dorno
+19:20:43 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:50 ----> dorno: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: bart
+19:20:50 ----> dorno: ---------------------------------------------------------------------
+19:20:50 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:50 ----> dorno: ---------------------------------------------------------------------
+19:20:50 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: ploc
+19:20:50 ----> dorno: encerramento da conexão
+19:20:50 ----> -------------------------------------------------------------------------------------------------------------
+19:20:51 ----> Foi criado o socket no cliente: dorno
+19:20:51 ----> dorno: estabeleceu conexão: servidor portal: bart
+19:20:55 ----> dorno: enviado arquivo fonte (lista.py) ao servidor portal: bart
+19:20:55 ----> dorno: ---------------------------------------------------------------------
+19:20:55 ----> dorno: | esperando servidor portal: bart retornar com a resposta |
+19:20:55 ----> dorno: ---------------------------------------------------------------------
+19:20:55 ----> dorno: recebimento do resultado da execução realizada no servidor de processamento: dorno
+19:20:55 ----> dorno: encerramento da conexão
+19:20:55 ----> -------------------------------------------------------------------------------------------------------------

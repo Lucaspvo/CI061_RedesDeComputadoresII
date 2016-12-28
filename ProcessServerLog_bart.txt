@@ -1,0 +1,58 @@
+19:18:06 ----> bart: criado socket
+19:18:06 ----> bart: realizado bind() na porta: 1234
+19:18:06 ----> bart: esperando por conexão (listen())
+19:18:06 ----> -------------------------------------------------------------------------------------------------------------
+19:18:52 ----> bart: estabelecida conexão com servidor portal
+19:18:52 ----> bart: recebido arquivo fonte (lista.py) do servidor portal: bart
+19:18:52 ----> bart: criado arquivo fonte (lista.py) do cliente: dorno
+19:18:53 ----> bart: arquivo fonte compilado e executado
+19:18:53 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:18:53 ----> -------------------------------------------------------------------------------------------------------------
+19:19:00 ----> bart: estabelecida conexão com servidor portal
+19:19:00 ----> bart: recebido arquivo fonte (fibonacci.py) do servidor portal: bart
+19:19:00 ----> bart: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:19:00 ----> bart: arquivo fonte compilado e executado
+19:19:00 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:19:00 ----> -------------------------------------------------------------------------------------------------------------
+19:19:11 ----> bart: estabelecida conexão com servidor portal
+19:19:11 ----> bart: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: bart
+19:19:11 ----> bart: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:19:11 ----> bart: arquivo fonte compilado e executado
+19:19:11 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:19:11 ----> -------------------------------------------------------------------------------------------------------------
+19:19:18 ----> bart: estabelecida conexão com servidor portal
+19:19:18 ----> bart: recebido arquivo fonte (teste.py) do servidor portal: bart
+19:19:18 ----> bart: criado arquivo fonte (teste.py) do cliente: dorno
+19:19:18 ----> bart: arquivo fonte compilado e executado
+19:19:18 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:19:18 ----> -------------------------------------------------------------------------------------------------------------
+19:19:30 ----> bart: estabelecida conexão com servidor portal
+19:19:30 ----> bart: recebido arquivo fonte (fibonacci.py) do servidor portal: bart
+19:19:30 ----> bart: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:19:30 ----> bart: arquivo fonte compilado e executado
+19:19:30 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:19:30 ----> -------------------------------------------------------------------------------------------------------------
+19:19:49 ----> bart: estabelecida conexão com servidor portal
+19:19:49 ----> bart: recebido arquivo fonte (lista.py) do servidor portal: bart
+19:19:49 ----> bart: criado arquivo fonte (lista.py) do cliente: dorno
+19:19:49 ----> bart: arquivo fonte compilado e executado
+19:19:49 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:19:49 ----> -------------------------------------------------------------------------------------------------------------
+19:19:59 ----> bart: estabelecida conexão com servidor portal
+19:19:59 ----> bart: recebido arquivo fonte (teste.py) do servidor portal: bart
+19:19:59 ----> bart: criado arquivo fonte (teste.py) do cliente: dorno
+19:19:59 ----> bart: arquivo fonte compilado e executado
+19:19:59 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:19:59 ----> -------------------------------------------------------------------------------------------------------------
+19:20:25 ----> bart: estabelecida conexão com servidor portal
+19:20:25 ----> bart: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: bart
+19:20:25 ----> bart: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:20:25 ----> bart: arquivo fonte compilado e executado
+19:20:25 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:20:25 ----> -------------------------------------------------------------------------------------------------------------
+19:20:42 ----> bart: estabelecida conexão com servidor portal
+19:20:42 ----> bart: recebido arquivo fonte (fibonacci.py) do servidor portal: bart
+19:20:42 ----> bart: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:20:42 ----> bart: arquivo fonte compilado e executado
+19:20:42 ----> bart: enviada resposta de execução ao servidor portal: bart
+19:20:42 ----> -------------------------------------------------------------------------------------------------------------

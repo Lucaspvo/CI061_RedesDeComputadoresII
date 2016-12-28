@@ -48,11 +48,14 @@ def serverSelection(host, string, server, port):
         sys.exit( 1 )
     try:
         Transmition.Send(r, string)
-        PortalServerLog.logMessage(host + ": enviado arquivo fonte ao servidor de processamento: " + server)
+        PortalServerLog.logMessage(host + ": enviado arquivo fonte (do cliente) ao servidor de processamento: " + server)
     except socket.error, ( errno, errmsg ):
         s.close()
         PortalServerLog.logMessage( "Erro ao enviar a mensagem: " + str( errno ) + ": " + str( errmsg ) )
         sys.exit( 1 ) 
+    PortalServerLog.logMessage(host + ": ------------------------------------------------------------------------------")
+    PortalServerLog.logMessage(host + ": | esperando servidor de processamento: " + server + " retornar com a resposta |")
+    PortalServerLog.logMessage(host + ": ------------------------------------------------------------------------------")
     try:
         string = Transmition.Recv(r)
         PortalServerLog.logMessage(host + ": recebida resposta da execução do servidor de processamento: " + server)
