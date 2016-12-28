@@ -1,0 +1,184 @@
+19:03:05 ----> bart: criado socket
+19:03:05 ----> bart: realizado bind() na porta: 2345
+19:03:05 ----> bart: esperando por conexão (listen())!
+19:03:05 ----> -------------------------------------------------------------------------------------------------------------
+19:06:15 ----> bart: realizada conexão com cliente. (accept())!
+19:06:22 ----> bart: recebida mensagem do cliente!
+19:06:22 ----> bart: utilizado escalonamento Aleatório
+19:06:22 ----> bart: criado socket para a conexão com o servidor: PLOC na porta 1235
+19:06:22 ----> bart: estabelecida conexão com o servidor: PLOC
+19:06:22 ----> bart: enviada mensagem ao servidor: PLOC
+19:06:22 ----> bart: recebida resposta da execução do servidor: PLOC!
+19:06:22 ----> bart: socket de comunicação fechado
+19:06:22 ----> bart: enviado resultado da execução para o cliente: dorno
+19:06:22 ----> -------------------------------------------------------------------------------------------------------------
+19:06:24 ----> bart: realizada conexão com cliente. (accept())!
+19:06:43 ----> bart: recebida mensagem do cliente!
+19:06:43 ----> bart: utilizado escalonamento Aleatório
+19:06:43 ----> bart: criado socket para a conexão com o servidor: BART na porta 1234
+19:06:43 ----> bart: estabelecida conexão com o servidor: BART
+19:06:43 ----> bart: enviada mensagem ao servidor: BART
+19:06:43 ----> bart: recebida resposta da execução do servidor: BART!
+19:06:43 ----> bart: socket de comunicação fechado
+19:06:43 ----> bart: enviado resultado da execução para o cliente: dorno
+19:06:43 ----> -------------------------------------------------------------------------------------------------------------
+19:08:19 ----> bart: realizada conexão com cliente. (accept())!
+19:08:31 ----> bart: recebida mensagem do cliente!
+19:08:31 ----> bart: utilizado escalonamento Aleatório
+19:08:31 ----> bart: criado socket para a conexão com o servidor: BART na porta 1234
+19:08:31 ----> bart: estabelecida conexão com o servidor: BART
+19:08:31 ----> bart: enviada mensagem ao servidor: BART
+19:08:31 ----> bart: recebida resposta da execução do servidor: BART!
+19:08:31 ----> bart: socket de comunicação fechado
+19:08:31 ----> bart: enviado resultado da execução para o cliente: dorno
+19:08:31 ----> -------------------------------------------------------------------------------------------------------------
+19:08:34 ----> bart: realizada conexão com cliente. (accept())!
+19:08:42 ----> bart: recebida mensagem do cliente!
+19:08:42 ----> bart: utilizado escalonamento Aleatório
+19:08:42 ----> bart: criado socket para a conexão com o servidor: PLOC na porta 1235
+19:08:42 ----> bart: estabelecida conexão com o servidor: PLOC
+19:08:42 ----> bart: enviada mensagem ao servidor: PLOC
+19:08:43 ----> bart: recebida resposta da execução do servidor: PLOC!
+19:08:43 ----> bart: socket de comunicação fechado
+19:08:43 ----> bart: enviado resultado da execução para o cliente: dorno
+19:08:43 ----> -------------------------------------------------------------------------------------------------------------
+19:08:47 ----> bart: realizada conexão com cliente. (accept())!
+19:08:57 ----> bart: recebida mensagem do cliente!
+19:08:57 ----> bart: utilizado escalonamento Aleatório
+19:08:57 ----> bart: criado socket para a conexão com o servidor: DORNO na porta 1236
+19:08:57 ----> bart: estabelecida conexão com o servidor: DORNO
+19:08:57 ----> bart: enviada mensagem ao servidor: DORNO
+19:08:57 ----> bart: recebida resposta da execução do servidor: DORNO!
+19:08:57 ----> bart: socket de comunicação fechado
+19:08:57 ----> bart: enviado resultado da execução para o cliente: dorno
+19:08:57 ----> -------------------------------------------------------------------------------------------------------------
+19:09:04 ----> bart: realizada conexão com cliente. (accept())!
+19:09:12 ----> bart: recebida mensagem do cliente!
+19:09:12 ----> bart: utilizado escalonamento Aleatório
+19:09:12 ----> bart: criado socket para a conexão com o servidor: PLOC na porta 1235
+19:09:12 ----> bart: estabelecida conexão com o servidor: PLOC
+19:09:12 ----> bart: enviada mensagem ao servidor: PLOC
+19:09:12 ----> bart: recebida resposta da execução do servidor: PLOC!
+19:09:12 ----> bart: socket de comunicação fechado
+19:09:12 ----> bart: enviado resultado da execução para o cliente: dorno
+19:09:12 ----> -------------------------------------------------------------------------------------------------------------
+19:09:17 ----> bart: realizada conexão com cliente. (accept())!
+19:09:37 ----> bart: recebida mensagem do cliente!
+19:09:37 ----> bart: utilizado escalonamento Aleatório
+19:09:37 ----> bart: criado socket para a conexão com o servidor: PLOC na porta 1235
+19:09:37 ----> bart: estabelecida conexão com o servidor: PLOC
+19:09:37 ----> bart: enviada mensagem ao servidor: PLOC
+19:09:37 ----> bart: recebida resposta da execução do servidor: PLOC!
+19:09:37 ----> bart: socket de comunicação fechado
+19:09:37 ----> bart: enviado resultado da execução para o cliente: dorno
+19:09:37 ----> -------------------------------------------------------------------------------------------------------------
+19:09:39 ----> bart: realizada conexão com cliente. (accept())!
+19:09:47 ----> bart: recebida mensagem do cliente!
+19:09:47 ----> bart: utilizado escalonamento Aleatório
+19:09:47 ----> bart: criado socket para a conexão com o servidor: DORNO na porta 1236
+19:09:47 ----> bart: estabelecida conexão com o servidor: DORNO
+19:09:47 ----> bart: enviada mensagem ao servidor: DORNO
+19:09:47 ----> bart: recebida resposta da execução do servidor: DORNO!
+19:09:47 ----> bart: socket de comunicação fechado
+19:09:47 ----> bart: enviado resultado da execução para o cliente: dorno
+19:09:47 ----> -------------------------------------------------------------------------------------------------------------
+19:09:49 ----> bart: realizada conexão com cliente. (accept())!
+19:09:59 ----> bart: recebida mensagem do cliente!
+19:09:59 ----> bart: utilizado escalonamento Aleatório
+19:09:59 ----> bart: criado socket para a conexão com o servidor: BART na porta 1234
+19:09:59 ----> bart: estabelecida conexão com o servidor: BART
+19:09:59 ----> bart: enviada mensagem ao servidor: BART
+19:09:59 ----> bart: recebida resposta da execução do servidor: BART!
+19:09:59 ----> bart: socket de comunicação fechado
+19:09:59 ----> bart: enviado resultado da execução para o cliente: dorno
+19:09:59 ----> -------------------------------------------------------------------------------------------------------------
+19:10:03 ----> bart: realizada conexão com cliente. (accept())!
+19:10:07 ----> bart: recebida mensagem do cliente!
+19:10:07 ----> bart: utilizado escalonamento Aleatório
+19:10:07 ----> bart: criado socket para a conexão com o servidor: DORNO na porta 1236
+19:10:07 ----> bart: estabelecida conexão com o servidor: DORNO
+19:10:07 ----> bart: enviada mensagem ao servidor: DORNO
+19:10:07 ----> bart: recebida resposta da execução do servidor: DORNO!
+19:10:07 ----> bart: socket de comunicação fechado
+19:10:07 ----> bart: enviado resultado da execução para o cliente: dorno
+19:10:07 ----> -------------------------------------------------------------------------------------------------------------
+19:10:08 ----> bart: realizada conexão com cliente. (accept())!
+19:10:14 ----> bart: recebida mensagem do cliente!
+19:10:14 ----> bart: utilizado escalonamento Aleatório
+19:10:14 ----> bart: criado socket para a conexão com o servidor: DORNO na porta 1236
+19:10:14 ----> bart: estabelecida conexão com o servidor: DORNO
+19:10:14 ----> bart: enviada mensagem ao servidor: DORNO
+19:10:14 ----> bart: recebida resposta da execução do servidor: DORNO!
+19:10:14 ----> bart: socket de comunicação fechado
+19:10:14 ----> bart: enviado resultado da execução para o cliente: dorno
+19:10:14 ----> -------------------------------------------------------------------------------------------------------------
+19:10:16 ----> bart: realizada conexão com cliente. (accept())!
+19:10:24 ----> bart: recebida mensagem do cliente!
+19:10:24 ----> bart: utilizado escalonamento Aleatório
+19:10:24 ----> bart: criado socket para a conexão com o servidor: PLOC na porta 1235
+19:10:24 ----> bart: estabelecida conexão com o servidor: PLOC
+19:10:24 ----> bart: enviada mensagem ao servidor: PLOC
+19:10:25 ----> bart: recebida resposta da execução do servidor: PLOC!
+19:10:25 ----> bart: socket de comunicação fechado
+19:10:25 ----> bart: enviado resultado da execução para o cliente: dorno
+19:10:25 ----> -------------------------------------------------------------------------------------------------------------
+19:10:28 ----> bart: realizada conexão com cliente. (accept())!
+19:10:32 ----> bart: recebida mensagem do cliente!
+19:10:32 ----> bart: utilizado escalonamento Round-Robin
+19:10:32 ----> bart: criado socket para a conexão com o servidor: BART na porta 1234
+19:10:32 ----> bart: estabelecida conexão com o servidor: BART
+19:10:32 ----> bart: enviada mensagem ao servidor: BART
+19:10:32 ----> bart: recebida resposta da execução do servidor: BART!
+19:10:32 ----> bart: socket de comunicação fechado
+19:10:32 ----> bart: enviado resultado da execução para o cliente: dorno
+19:10:32 ----> -------------------------------------------------------------------------------------------------------------
+19:10:36 ----> bart: realizada conexão com cliente. (accept())!
+19:10:43 ----> bart: recebida mensagem do cliente!
+19:10:43 ----> bart: utilizado escalonamento Round-Robin
+19:10:43 ----> bart: criado socket para a conexão com o servidor: PLOC na porta 1235
+19:10:43 ----> bart: estabelecida conexão com o servidor: PLOC
+19:10:43 ----> bart: enviada mensagem ao servidor: PLOC
+19:10:44 ----> bart: recebida resposta da execução do servidor: PLOC!
+19:10:44 ----> bart: socket de comunicação fechado
+19:10:44 ----> bart: enviado resultado da execução para o cliente: dorno
+19:10:44 ----> -------------------------------------------------------------------------------------------------------------
+19:10:45 ----> bart: realizada conexão com cliente. (accept())!
+19:10:50 ----> bart: recebida mensagem do cliente!
+19:10:50 ----> bart: utilizado escalonamento Round-Robin
+19:10:50 ----> bart: criado socket para a conexão com o servidor: DORNO na porta 1236
+19:10:50 ----> bart: estabelecida conexão com o servidor: DORNO
+19:10:50 ----> bart: enviada mensagem ao servidor: DORNO
+19:10:50 ----> bart: recebida resposta da execução do servidor: DORNO!
+19:10:50 ----> bart: socket de comunicação fechado
+19:10:50 ----> bart: enviado resultado da execução para o cliente: dorno
+19:10:50 ----> -------------------------------------------------------------------------------------------------------------
+19:10:53 ----> bart: realizada conexão com cliente. (accept())!
+19:11:02 ----> bart: recebida mensagem do cliente!
+19:11:02 ----> bart: utilizado escalonamento Round-Robin
+19:11:02 ----> bart: criado socket para a conexão com o servidor: BART na porta 1234
+19:11:02 ----> bart: estabelecida conexão com o servidor: BART
+19:11:02 ----> bart: enviada mensagem ao servidor: BART
+19:11:02 ----> bart: recebida resposta da execução do servidor: BART!
+19:11:02 ----> bart: socket de comunicação fechado
+19:11:02 ----> bart: enviado resultado da execução para o cliente: dorno
+19:11:02 ----> -------------------------------------------------------------------------------------------------------------
+19:11:03 ----> bart: realizada conexão com cliente. (accept())!
+19:11:09 ----> bart: recebida mensagem do cliente!
+19:11:09 ----> bart: utilizado escalonamento Round-Robin
+19:11:09 ----> bart: criado socket para a conexão com o servidor: PLOC na porta 1235
+19:11:09 ----> bart: estabelecida conexão com o servidor: PLOC
+19:11:09 ----> bart: enviada mensagem ao servidor: PLOC
+19:11:09 ----> bart: recebida resposta da execução do servidor: PLOC!
+19:11:09 ----> bart: socket de comunicação fechado
+19:11:09 ----> bart: enviado resultado da execução para o cliente: dorno
+19:11:09 ----> -------------------------------------------------------------------------------------------------------------
+19:11:11 ----> bart: realizada conexão com cliente. (accept())!
+19:11:14 ----> bart: recebida mensagem do cliente!
+19:11:14 ----> bart: utilizado escalonamento Round-Robin
+19:11:14 ----> bart: criado socket para a conexão com o servidor: DORNO na porta 1236
+19:11:14 ----> bart: estabelecida conexão com o servidor: DORNO
+19:11:14 ----> bart: enviada mensagem ao servidor: DORNO
+19:11:14 ----> bart: recebida resposta da execução do servidor: DORNO!
+19:11:14 ----> bart: socket de comunicação fechado
+19:11:14 ----> bart: enviado resultado da execução para o cliente: dorno
+19:11:14 ----> -------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,139 @@
+14:36:13 ----> Foi criado o socket no cliente: mumm
+14:36:13 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:36:21 ----> mumm: enviado arquivo fonte (teste.py) ao servidor portal: caporal
+14:36:21 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:36:21 ----> mumm: encerramento da conexão
+14:36:21 ----> -------------------------------------------------------------------------------------------------------------
+14:36:27 ----> Foi criado o socket no cliente: mumm
+14:36:27 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:36:37 ----> mumm: enviado arquivo fonte (fibonacci.py) ao servidor portal: caporal
+14:36:37 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:36:37 ----> mumm: encerramento da conexão
+14:36:37 ----> -------------------------------------------------------------------------------------------------------------
+14:36:45 ----> Foi criado o socket no cliente: mumm
+14:36:45 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:36:49 ----> mumm: enviado arquivo fonte (lista.py) ao servidor portal: caporal
+14:36:49 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:36:49 ----> mumm: encerramento da conexão
+14:36:49 ----> -------------------------------------------------------------------------------------------------------------
+14:36:54 ----> Foi criado o socket no cliente: mumm
+14:36:54 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:37:03 ----> mumm: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: caporal
+14:37:04 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:37:04 ----> mumm: encerramento da conexão
+14:37:04 ----> -------------------------------------------------------------------------------------------------------------
+14:37:07 ----> Foi criado o socket no cliente: mumm
+14:37:07 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:37:15 ----> mumm: enviado arquivo fonte (teste.py) ao servidor portal: caporal
+14:37:36 ----> Foi criado o socket no cliente: mumm
+14:37:36 ----> Erro ao realizar o connect(): 111: Connection refused
+14:37:38 ----> Foi criado o socket no cliente: mumm
+14:37:38 ----> Erro ao realizar o connect(): 111: Connection refused
+14:37:39 ----> Foi criado o socket no cliente: mumm
+14:37:39 ----> Erro ao realizar o connect(): 111: Connection refused
+14:37:59 ----> Foi criado o socket no cliente: mumm
+14:37:59 ----> Erro ao realizar o connect(): 111: Connection refused
+14:38:02 ----> Foi criado o socket no cliente: mumm
+14:38:02 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:38:12 ----> mumm: enviado arquivo fonte (fibonacci.py) ao servidor portal: caporal
+14:38:12 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:38:12 ----> mumm: encerramento da conexão
+14:38:12 ----> -------------------------------------------------------------------------------------------------------------
+14:38:16 ----> Foi criado o socket no cliente: mumm
+14:38:16 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:38:20 ----> mumm: enviado arquivo fonte (lista.py) ao servidor portal: caporal
+14:38:21 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:38:21 ----> mumm: encerramento da conexão
+14:38:21 ----> -------------------------------------------------------------------------------------------------------------
+14:38:25 ----> Foi criado o socket no cliente: mumm
+14:38:25 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:38:34 ----> mumm: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: caporal
+14:38:34 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:38:34 ----> mumm: encerramento da conexão
+14:38:34 ----> -------------------------------------------------------------------------------------------------------------
+14:38:37 ----> Foi criado o socket no cliente: mumm
+14:38:37 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:38:41 ----> mumm: enviado arquivo fonte (teste.py) ao servidor portal: caporal
+14:38:41 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:38:41 ----> mumm: encerramento da conexão
+14:38:41 ----> -------------------------------------------------------------------------------------------------------------
+14:38:42 ----> Foi criado o socket no cliente: mumm
+14:38:42 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:38:45 ----> mumm: enviado arquivo fonte (lista.py) ao servidor portal: caporal
+14:38:46 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:38:46 ----> mumm: encerramento da conexão
+14:38:46 ----> -------------------------------------------------------------------------------------------------------------
+14:38:47 ----> Foi criado o socket no cliente: mumm
+14:38:47 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:38:52 ----> mumm: enviado arquivo fonte (fibonacci.py) ao servidor portal: caporal
+14:38:52 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:38:52 ----> mumm: encerramento da conexão
+14:38:52 ----> -------------------------------------------------------------------------------------------------------------
+14:38:54 ----> Foi criado o socket no cliente: mumm
+14:38:54 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:39:03 ----> mumm: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: caporal
+14:39:03 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:39:03 ----> mumm: encerramento da conexão
+14:39:03 ----> -------------------------------------------------------------------------------------------------------------
+14:39:06 ----> Foi criado o socket no cliente: mumm
+14:39:06 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:39:13 ----> mumm: enviado arquivo fonte (fibonacci.py) ao servidor portal: caporal
+14:39:13 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:39:13 ----> mumm: encerramento da conexão
+14:39:13 ----> -------------------------------------------------------------------------------------------------------------
+14:39:15 ----> Foi criado o socket no cliente: mumm
+14:39:15 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:39:32 ----> Foi criado o socket no cliente: mumm
+14:39:32 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:39:37 ----> mumm: enviado arquivo fonte (lista.py) ao servidor portal: caporal
+14:39:37 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:39:37 ----> mumm: encerramento da conexão
+14:39:37 ----> -------------------------------------------------------------------------------------------------------------
+14:39:39 ----> Foi criado o socket no cliente: mumm
+14:39:39 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:39:47 ----> mumm: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: caporal
+14:39:47 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:39:47 ----> mumm: encerramento da conexão
+14:39:47 ----> -------------------------------------------------------------------------------------------------------------
+14:39:48 ----> Foi criado o socket no cliente: mumm
+14:39:48 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:39:54 ----> mumm: enviado arquivo fonte (fibonacci.py) ao servidor portal: caporal
+14:39:54 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:39:54 ----> mumm: encerramento da conexão
+14:39:54 ----> -------------------------------------------------------------------------------------------------------------
+14:39:55 ----> Foi criado o socket no cliente: mumm
+14:39:55 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:39:59 ----> mumm: enviado arquivo fonte (teste.py) ao servidor portal: caporal
+14:39:59 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:39:59 ----> mumm: encerramento da conexão
+14:39:59 ----> -------------------------------------------------------------------------------------------------------------
+14:40:01 ----> Foi criado o socket no cliente: mumm
+14:40:01 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:40:05 ----> mumm: enviado arquivo fonte (lista.py) ao servidor portal: caporal
+14:40:05 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:40:05 ----> mumm: encerramento da conexão
+14:40:05 ----> -------------------------------------------------------------------------------------------------------------
+14:40:06 ----> Foi criado o socket no cliente: mumm
+14:40:06 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:40:13 ----> mumm: enviado arquivo fonte (numerosPerfeitos.py) ao servidor portal: caporal
+14:40:13 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:40:13 ----> mumm: encerramento da conexão
+14:40:13 ----> -------------------------------------------------------------------------------------------------------------
+14:40:15 ----> Foi criado o socket no cliente: mumm
+14:40:15 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:40:19 ----> mumm: enviado arquivo fonte (lista.py) ao servidor portal: caporal
+14:40:19 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: mumm
+14:40:19 ----> mumm: encerramento da conexão
+14:40:19 ----> -------------------------------------------------------------------------------------------------------------
+14:40:21 ----> Foi criado o socket no cliente: mumm
+14:40:21 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:40:27 ----> mumm: enviado arquivo fonte (fibonacci.py) ao servidor portal: caporal
+14:40:27 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:40:27 ----> mumm: encerramento da conexão
+14:40:27 ----> -------------------------------------------------------------------------------------------------------------
+14:40:28 ----> Foi criado o socket no cliente: mumm
+14:40:28 ----> mumm: estabeleceu conexão: servidor portal: caporal
+14:40:31 ----> mumm: enviado arquivo fonte (teste.py) ao servidor portal: caporal
+14:40:31 ----> mumm: recebimento do resultado da execução realizada no servidor de processamento: priorat
+14:40:31 ----> mumm: encerramento da conexão
+14:40:31 ----> -------------------------------------------------------------------------------------------------------------

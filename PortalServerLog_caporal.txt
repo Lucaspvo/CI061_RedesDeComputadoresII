@@ -1,0 +1,231 @@
+14:32:54 ----> caporal: criado socket
+14:32:54 ----> caporal: realizado bind() na porta: 2345
+14:32:54 ----> caporal: esperando por conexão
+14:32:54 ----> -------------------------------------------------------------------------------------------------------------
+14:36:13 ----> caporal: realizada conexão com cliente
+14:36:21 ----> caporal: recebida mensagem do cliente: mumm
+14:36:21 ----> caporal: utilizado escalonamento Aleatório
+14:36:21 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:36:21 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:36:21 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:36:21 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:36:21 ----> caporal: socket de comunicação fechado
+14:36:21 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:36:21 ----> -------------------------------------------------------------------------------------------------------------
+14:36:27 ----> caporal: realizada conexão com cliente
+14:36:37 ----> caporal: recebida mensagem do cliente: mumm
+14:36:37 ----> caporal: utilizado escalonamento Aleatório
+14:36:37 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1236
+14:36:37 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:36:37 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:36:37 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:36:37 ----> caporal: socket de comunicação fechado
+14:36:37 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:36:37 ----> -------------------------------------------------------------------------------------------------------------
+14:36:45 ----> caporal: realizada conexão com cliente
+14:36:49 ----> caporal: recebida mensagem do cliente: mumm
+14:36:49 ----> caporal: utilizado escalonamento Aleatório
+14:36:49 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:36:49 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:36:49 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:36:49 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:36:49 ----> caporal: socket de comunicação fechado
+14:36:49 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:36:49 ----> -------------------------------------------------------------------------------------------------------------
+14:36:54 ----> caporal: realizada conexão com cliente
+14:37:03 ----> caporal: recebida mensagem do cliente: mumm
+14:37:03 ----> caporal: utilizado escalonamento Aleatório
+14:37:03 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1236
+14:37:03 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:37:03 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:37:04 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:37:04 ----> caporal: socket de comunicação fechado
+14:37:04 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:37:04 ----> -------------------------------------------------------------------------------------------------------------
+14:37:07 ----> caporal: realizada conexão com cliente
+14:37:14 ----> caporal: recebida mensagem do cliente: mumm
+14:37:41 ----> caporal: criado socket
+14:37:41 ----> Erro ao realizar o bind(): 98: Address already in use
+14:37:44 ----> caporal: criado socket
+14:37:44 ----> Erro ao realizar o bind(): 98: Address already in use
+14:37:44 ----> caporal: criado socket
+14:37:44 ----> Erro ao realizar o bind(): 98: Address already in use
+14:37:52 ----> caporal: criado socket
+14:37:52 ----> caporal: realizado bind() na porta: 2355
+14:37:52 ----> caporal: esperando por conexão
+14:37:52 ----> -------------------------------------------------------------------------------------------------------------
+14:38:02 ----> caporal: realizada conexão com cliente
+14:38:12 ----> caporal: recebida mensagem do cliente: mumm
+14:38:12 ----> caporal: utilizado escalonamento Round-Robin
+14:38:12 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1234
+14:38:12 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:38:12 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:38:12 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:38:12 ----> caporal: socket de comunicação fechado
+14:38:12 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:38:12 ----> -------------------------------------------------------------------------------------------------------------
+14:38:16 ----> caporal: realizada conexão com cliente
+14:38:20 ----> caporal: recebida mensagem do cliente: mumm
+14:38:20 ----> caporal: utilizado escalonamento Round-Robin
+14:38:20 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:38:20 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:38:20 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:38:21 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:38:21 ----> caporal: socket de comunicação fechado
+14:38:21 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:38:21 ----> -------------------------------------------------------------------------------------------------------------
+14:38:25 ----> caporal: realizada conexão com cliente
+14:38:34 ----> caporal: recebida mensagem do cliente: mumm
+14:38:34 ----> caporal: utilizado escalonamento Round-Robin
+14:38:34 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1236
+14:38:34 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:38:34 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:38:34 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:38:34 ----> caporal: socket de comunicação fechado
+14:38:34 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:38:34 ----> -------------------------------------------------------------------------------------------------------------
+14:38:37 ----> caporal: realizada conexão com cliente
+14:38:41 ----> caporal: recebida mensagem do cliente: mumm
+14:38:41 ----> caporal: utilizado escalonamento Aleatório
+14:38:41 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1236
+14:38:41 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:38:41 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:38:41 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:38:41 ----> caporal: socket de comunicação fechado
+14:38:41 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:38:41 ----> -------------------------------------------------------------------------------------------------------------
+14:38:42 ----> caporal: realizada conexão com cliente
+14:38:45 ----> caporal: recebida mensagem do cliente: mumm
+14:38:45 ----> caporal: utilizado escalonamento Aleatório
+14:38:45 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1234
+14:38:45 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:38:45 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:38:46 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:38:46 ----> caporal: socket de comunicação fechado
+14:38:46 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:38:46 ----> -------------------------------------------------------------------------------------------------------------
+14:38:47 ----> caporal: realizada conexão com cliente
+14:38:52 ----> caporal: recebida mensagem do cliente: mumm
+14:38:52 ----> caporal: utilizado escalonamento Aleatório
+14:38:52 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1236
+14:38:52 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:38:52 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:38:52 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:38:52 ----> caporal: socket de comunicação fechado
+14:38:52 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:38:52 ----> -------------------------------------------------------------------------------------------------------------
+14:38:54 ----> caporal: realizada conexão com cliente
+14:39:03 ----> caporal: recebida mensagem do cliente: mumm
+14:39:03 ----> caporal: utilizado escalonamento Aleatório
+14:39:03 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1234
+14:39:03 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:39:03 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:39:03 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:39:03 ----> caporal: socket de comunicação fechado
+14:39:03 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:39:03 ----> -------------------------------------------------------------------------------------------------------------
+14:39:06 ----> caporal: realizada conexão com cliente
+14:39:13 ----> caporal: recebida mensagem do cliente: mumm
+14:39:13 ----> caporal: utilizado escalonamento Aleatório
+14:39:13 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:39:13 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:39:13 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:39:13 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:39:13 ----> caporal: socket de comunicação fechado
+14:39:13 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:39:13 ----> -------------------------------------------------------------------------------------------------------------
+14:39:14 ----> caporal: realizada conexão com cliente
+14:39:28 ----> caporal: criado socket
+14:39:28 ----> caporal: realizado bind() na porta: 2355
+14:39:28 ----> caporal: esperando por conexão
+14:39:28 ----> -------------------------------------------------------------------------------------------------------------
+14:39:32 ----> caporal: realizada conexão com cliente
+14:39:37 ----> caporal: recebida mensagem do cliente: mumm
+14:39:37 ----> caporal: utilizado escalonamento Aleatório
+14:39:37 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:39:37 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:39:37 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:39:37 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:39:37 ----> caporal: socket de comunicação fechado
+14:39:37 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:39:37 ----> -------------------------------------------------------------------------------------------------------------
+14:39:39 ----> caporal: realizada conexão com cliente
+14:39:47 ----> caporal: recebida mensagem do cliente: mumm
+14:39:47 ----> caporal: utilizado escalonamento Aleatório
+14:39:47 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:39:47 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:39:47 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:39:47 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:39:47 ----> caporal: socket de comunicação fechado
+14:39:47 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:39:47 ----> -------------------------------------------------------------------------------------------------------------
+14:39:48 ----> caporal: realizada conexão com cliente
+14:39:54 ----> caporal: recebida mensagem do cliente: mumm
+14:39:54 ----> caporal: utilizado escalonamento Round-Robin
+14:39:54 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1234
+14:39:54 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:39:54 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:39:54 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:39:54 ----> caporal: socket de comunicação fechado
+14:39:54 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:39:54 ----> -------------------------------------------------------------------------------------------------------------
+14:39:55 ----> caporal: realizada conexão com cliente
+14:39:59 ----> caporal: recebida mensagem do cliente: mumm
+14:39:59 ----> caporal: utilizado escalonamento Round-Robin
+14:39:59 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:39:59 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:39:59 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:39:59 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:39:59 ----> caporal: socket de comunicação fechado
+14:39:59 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:39:59 ----> -------------------------------------------------------------------------------------------------------------
+14:40:01 ----> caporal: realizada conexão com cliente
+14:40:05 ----> caporal: recebida mensagem do cliente: mumm
+14:40:05 ----> caporal: utilizado escalonamento Round-Robin
+14:40:05 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1236
+14:40:05 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:40:05 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:40:05 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:40:05 ----> caporal: socket de comunicação fechado
+14:40:05 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:40:05 ----> -------------------------------------------------------------------------------------------------------------
+14:40:06 ----> caporal: realizada conexão com cliente
+14:40:13 ----> caporal: recebida mensagem do cliente: mumm
+14:40:13 ----> caporal: utilizado escalonamento Round-Robin
+14:40:13 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1234
+14:40:13 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:40:13 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:40:13 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:40:13 ----> caporal: socket de comunicação fechado
+14:40:13 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:40:13 ----> -------------------------------------------------------------------------------------------------------------
+14:40:15 ----> caporal: realizada conexão com cliente
+14:40:19 ----> caporal: recebida mensagem do cliente: mumm
+14:40:19 ----> caporal: utilizado escalonamento Round-Robin
+14:40:19 ----> caporal: criado socket para a conexão com o servidor de processamento: mumm na porta 1235
+14:40:19 ----> caporal: estabelecida conexão com o servidor de processamento: mumm
+14:40:19 ----> caporal: enviado arquivo fonte ao servidor de processamento: mumm
+14:40:19 ----> caporal: recebida resposta da execução do servidor de processamento: mumm
+14:40:19 ----> caporal: socket de comunicação fechado
+14:40:19 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:40:19 ----> -------------------------------------------------------------------------------------------------------------
+14:40:21 ----> caporal: realizada conexão com cliente
+14:40:27 ----> caporal: recebida mensagem do cliente: mumm
+14:40:27 ----> caporal: utilizado escalonamento Round-Robin
+14:40:27 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1236
+14:40:27 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:40:27 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:40:27 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:40:27 ----> caporal: socket de comunicação fechado
+14:40:27 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:40:27 ----> -------------------------------------------------------------------------------------------------------------
+14:40:28 ----> caporal: realizada conexão com cliente
+14:40:31 ----> caporal: recebida mensagem do cliente: mumm
+14:40:31 ----> caporal: utilizado escalonamento Round-Robin
+14:40:31 ----> caporal: criado socket para a conexão com o servidor de processamento: priorat na porta 1234
+14:40:31 ----> caporal: estabelecida conexão com o servidor de processamento: priorat
+14:40:31 ----> caporal: enviado arquivo fonte ao servidor de processamento: priorat
+14:40:31 ----> caporal: recebida resposta da execução do servidor de processamento: priorat
+14:40:31 ----> caporal: socket de comunicação fechado
+14:40:31 ----> caporal: enviado resultado da execução para o cliente: mumm
+14:40:31 ----> -------------------------------------------------------------------------------------------------------------

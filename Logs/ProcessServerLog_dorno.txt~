@@ -1,0 +1,40 @@
+19:00:54 ----> dorno: criado socket
+19:00:54 ----> dorno: realizado bind() na porta: 1236
+19:00:54 ----> dorno: esperando por conexão (listen())
+19:00:54 ----> -------------------------------------------------------------------------------------------------------------
+19:08:57 ----> dorno: estabelecida conexão com servidor portal (accept())
+19:08:57 ----> dorno: recebida mensagem
+19:08:57 ----> dorno: criado arquivo fonte (teste.py) do cliente: dorno
+19:08:57 ----> dorno: arquivo fonte compilado e executado
+19:08:57 ----> dorno: enviada resposta de execução ao portal!
+19:08:57 ----> -------------------------------------------------------------------------------------------------------------
+19:09:47 ----> dorno: estabelecida conexão com servidor portal (accept())
+19:09:47 ----> dorno: recebida mensagem
+19:09:47 ----> dorno: criado arquivo fonte (lista.py) do cliente: dorno
+19:09:47 ----> dorno: arquivo fonte compilado e executado
+19:09:47 ----> dorno: enviada resposta de execução ao portal!
+19:09:47 ----> -------------------------------------------------------------------------------------------------------------
+19:10:07 ----> dorno: estabelecida conexão com servidor portal (accept())
+19:10:07 ----> dorno: recebida mensagem
+19:10:07 ----> dorno: criado arquivo fonte (teste.py) do cliente: dorno
+19:10:07 ----> dorno: arquivo fonte compilado e executado
+19:10:07 ----> dorno: enviada resposta de execução ao portal!
+19:10:07 ----> -------------------------------------------------------------------------------------------------------------
+19:10:14 ----> dorno: estabelecida conexão com servidor portal (accept())
+19:10:14 ----> dorno: recebida mensagem
+19:10:14 ----> dorno: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:10:14 ----> dorno: arquivo fonte compilado e executado
+19:10:14 ----> dorno: enviada resposta de execução ao portal!
+19:10:14 ----> -------------------------------------------------------------------------------------------------------------
+19:10:50 ----> dorno: estabelecida conexão com servidor portal (accept())
+19:10:50 ----> dorno: recebida mensagem
+19:10:50 ----> dorno: criado arquivo fonte (lista.py) do cliente: dorno
+19:10:50 ----> dorno: arquivo fonte compilado e executado
+19:10:50 ----> dorno: enviada resposta de execução ao portal!
+19:10:50 ----> -------------------------------------------------------------------------------------------------------------
+19:11:14 ----> dorno: estabelecida conexão com servidor portal (accept())
+19:11:14 ----> dorno: recebida mensagem
+19:11:14 ----> dorno: criado arquivo fonte (lista.py) do cliente: dorno
+19:11:14 ----> dorno: arquivo fonte compilado e executado
+19:11:14 ----> dorno: enviada resposta de execução ao portal!
+19:11:14 ----> -------------------------------------------------------------------------------------------------------------

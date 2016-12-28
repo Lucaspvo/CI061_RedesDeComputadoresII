@@ -1,0 +1,86 @@
+14:32:31 ----> priorat: criado socket
+14:32:31 ----> priorat: realizado bind() na porta: 1234
+14:32:31 ----> priorat: esperando por conexão (listen())
+14:32:31 ----> -------------------------------------------------------------------------------------------------------------
+14:32:51 ----> priorat: criado socket
+14:32:51 ----> priorat: realizado bind() na porta: 1236
+14:32:51 ----> priorat: esperando por conexão (listen())
+14:32:51 ----> -------------------------------------------------------------------------------------------------------------
+14:36:37 ----> priorat: estabelecida conexão com servidor portal
+14:36:37 ----> priorat: recebido arquivo fonte (fibonacci.py) do servidor portal: caporal
+14:36:37 ----> priorat: criado arquivo fonte (fibonacci.py) do cliente: mumm
+14:36:37 ----> priorat: arquivo fonte compilado e executado
+14:36:37 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:36:37 ----> -------------------------------------------------------------------------------------------------------------
+14:37:04 ----> priorat: estabelecida conexão com servidor portal
+14:37:04 ----> priorat: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: caporal
+14:37:04 ----> priorat: criado arquivo fonte (numerosPerfeitos.py) do cliente: mumm
+14:37:04 ----> priorat: arquivo fonte compilado e executado
+14:37:04 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:37:04 ----> -------------------------------------------------------------------------------------------------------------
+14:38:12 ----> priorat: estabelecida conexão com servidor portal
+14:38:12 ----> priorat: recebido arquivo fonte (fibonacci.py) do servidor portal: caporal
+14:38:12 ----> priorat: criado arquivo fonte (fibonacci.py) do cliente: mumm
+14:38:12 ----> priorat: arquivo fonte compilado e executado
+14:38:12 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:38:12 ----> -------------------------------------------------------------------------------------------------------------
+14:38:34 ----> priorat: estabelecida conexão com servidor portal
+14:38:34 ----> priorat: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: caporal
+14:38:34 ----> priorat: criado arquivo fonte (numerosPerfeitos.py) do cliente: mumm
+14:38:34 ----> priorat: arquivo fonte compilado e executado
+14:38:34 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:38:34 ----> -------------------------------------------------------------------------------------------------------------
+14:38:41 ----> priorat: estabelecida conexão com servidor portal
+14:38:41 ----> priorat: recebido arquivo fonte (teste.py) do servidor portal: caporal
+14:38:41 ----> priorat: criado arquivo fonte (teste.py) do cliente: mumm
+14:38:41 ----> priorat: arquivo fonte compilado e executado
+14:38:41 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:38:41 ----> -------------------------------------------------------------------------------------------------------------
+14:38:45 ----> priorat: estabelecida conexão com servidor portal
+14:38:45 ----> priorat: recebido arquivo fonte (lista.py) do servidor portal: caporal
+14:38:46 ----> priorat: criado arquivo fonte (lista.py) do cliente: mumm
+14:38:46 ----> priorat: arquivo fonte compilado e executado
+14:38:46 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:38:46 ----> -------------------------------------------------------------------------------------------------------------
+14:38:52 ----> priorat: estabelecida conexão com servidor portal
+14:38:52 ----> priorat: recebido arquivo fonte (fibonacci.py) do servidor portal: caporal
+14:38:52 ----> priorat: criado arquivo fonte (fibonacci.py) do cliente: mumm
+14:38:52 ----> priorat: arquivo fonte compilado e executado
+14:38:52 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:38:52 ----> -------------------------------------------------------------------------------------------------------------
+14:39:03 ----> priorat: estabelecida conexão com servidor portal
+14:39:03 ----> priorat: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: caporal
+14:39:03 ----> priorat: criado arquivo fonte (numerosPerfeitos.py) do cliente: mumm
+14:39:03 ----> priorat: arquivo fonte compilado e executado
+14:39:03 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:39:03 ----> -------------------------------------------------------------------------------------------------------------
+14:39:54 ----> priorat: estabelecida conexão com servidor portal
+14:39:54 ----> priorat: recebido arquivo fonte (fibonacci.py) do servidor portal: caporal
+14:39:54 ----> priorat: criado arquivo fonte (fibonacci.py) do cliente: mumm
+14:39:54 ----> priorat: arquivo fonte compilado e executado
+14:39:54 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:39:54 ----> -------------------------------------------------------------------------------------------------------------
+14:40:05 ----> priorat: estabelecida conexão com servidor portal
+14:40:05 ----> priorat: recebido arquivo fonte (lista.py) do servidor portal: caporal
+14:40:05 ----> priorat: criado arquivo fonte (lista.py) do cliente: mumm
+14:40:05 ----> priorat: arquivo fonte compilado e executado
+14:40:05 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:40:05 ----> -------------------------------------------------------------------------------------------------------------
+14:40:13 ----> priorat: estabelecida conexão com servidor portal
+14:40:13 ----> priorat: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: caporal
+14:40:13 ----> priorat: criado arquivo fonte (numerosPerfeitos.py) do cliente: mumm
+14:40:13 ----> priorat: arquivo fonte compilado e executado
+14:40:13 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:40:13 ----> -------------------------------------------------------------------------------------------------------------
+14:40:27 ----> priorat: estabelecida conexão com servidor portal
+14:40:27 ----> priorat: recebido arquivo fonte (fibonacci.py) do servidor portal: caporal
+14:40:27 ----> priorat: criado arquivo fonte (fibonacci.py) do cliente: mumm
+14:40:27 ----> priorat: arquivo fonte compilado e executado
+14:40:27 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:40:27 ----> -------------------------------------------------------------------------------------------------------------
+14:40:31 ----> priorat: estabelecida conexão com servidor portal
+14:40:31 ----> priorat: recebido arquivo fonte (teste.py) do servidor portal: caporal
+14:40:31 ----> priorat: criado arquivo fonte (teste.py) do cliente: mumm
+14:40:31 ----> priorat: arquivo fonte compilado e executado
+14:40:31 ----> priorat: enviada resposta de execução ao servidor portal: priorat
+14:40:31 ----> -------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+19:00:36 ----> bart: criado socket
+19:00:36 ----> bart: realizado bind() na porta: 1234
+19:00:36 ----> bart: esperando por conexão (listen())
+19:00:36 ----> -------------------------------------------------------------------------------------------------------------
+19:06:43 ----> bart: estabelecida conexão com servidor portal (accept())
+19:06:43 ----> bart: recebida mensagem
+19:06:43 ----> bart: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:06:43 ----> bart: arquivo fonte compilado e executado
+19:06:43 ----> bart: enviada resposta de execução ao portal!
+19:06:43 ----> -------------------------------------------------------------------------------------------------------------
+19:08:31 ----> bart: estabelecida conexão com servidor portal (accept())
+19:08:31 ----> bart: recebida mensagem
+19:08:31 ----> bart: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:08:31 ----> bart: arquivo fonte compilado e executado
+19:08:31 ----> bart: enviada resposta de execução ao portal!
+19:08:31 ----> -------------------------------------------------------------------------------------------------------------
+19:09:59 ----> bart: estabelecida conexão com servidor portal (accept())
+19:09:59 ----> bart: recebida mensagem
+19:09:59 ----> bart: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:09:59 ----> bart: arquivo fonte compilado e executado
+19:09:59 ----> bart: enviada resposta de execução ao portal!
+19:09:59 ----> -------------------------------------------------------------------------------------------------------------
+19:10:32 ----> bart: estabelecida conexão com servidor portal (accept())
+19:10:32 ----> bart: recebida mensagem
+19:10:32 ----> bart: criado arquivo fonte (teste.py) do cliente: dorno
+19:10:32 ----> bart: arquivo fonte compilado e executado
+19:10:32 ----> bart: enviada resposta de execução ao portal!
+19:10:32 ----> -------------------------------------------------------------------------------------------------------------
+19:11:02 ----> bart: estabelecida conexão com servidor portal (accept())
+19:11:02 ----> bart: recebida mensagem
+19:11:02 ----> bart: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:11:02 ----> bart: arquivo fonte compilado e executado
+19:11:02 ----> bart: enviada resposta de execução ao portal!
+19:11:02 ----> -------------------------------------------------------------------------------------------------------------

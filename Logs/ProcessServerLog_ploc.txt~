@@ -1,0 +1,46 @@
+19:01:53 ----> ploc: criado socket
+19:01:53 ----> ploc: realizado bind() na porta: 1235
+19:01:53 ----> ploc: esperando por conexão (listen())
+19:01:53 ----> -------------------------------------------------------------------------------------------------------------
+19:06:22 ----> ploc: estabelecida conexão com servidor portal (accept())
+19:06:22 ----> ploc: recebida mensagem
+19:06:22 ----> ploc: criado arquivo fonte (teste.py) do cliente: dorno
+19:06:22 ----> ploc: arquivo fonte compilado e executado
+19:06:22 ----> ploc: enviada resposta de execução ao portal!
+19:06:22 ----> -------------------------------------------------------------------------------------------------------------
+19:08:42 ----> ploc: estabelecida conexão com servidor portal (accept())
+19:08:43 ----> ploc: recebida mensagem
+19:08:43 ----> ploc: criado arquivo fonte (lista.py) do cliente: dorno
+19:08:43 ----> ploc: arquivo fonte compilado e executado
+19:08:43 ----> ploc: enviada resposta de execução ao portal!
+19:08:43 ----> -------------------------------------------------------------------------------------------------------------
+19:09:12 ----> ploc: estabelecida conexão com servidor portal (accept())
+19:09:12 ----> ploc: recebida mensagem
+19:09:12 ----> ploc: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:09:12 ----> ploc: arquivo fonte compilado e executado
+19:09:12 ----> ploc: enviada resposta de execução ao portal!
+19:09:12 ----> -------------------------------------------------------------------------------------------------------------
+19:09:37 ----> ploc: estabelecida conexão com servidor portal (accept())
+19:09:37 ----> ploc: recebida mensagem
+19:09:37 ----> ploc: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:09:37 ----> ploc: arquivo fonte compilado e executado
+19:09:37 ----> ploc: enviada resposta de execução ao portal!
+19:09:37 ----> -------------------------------------------------------------------------------------------------------------
+19:10:24 ----> ploc: estabelecida conexão com servidor portal (accept())
+19:10:24 ----> ploc: recebida mensagem
+19:10:24 ----> ploc: criado arquivo fonte (numerosPerfeitos.py) do cliente: dorno
+19:10:25 ----> ploc: arquivo fonte compilado e executado
+19:10:25 ----> ploc: enviada resposta de execução ao portal!
+19:10:25 ----> -------------------------------------------------------------------------------------------------------------
+19:10:44 ----> ploc: estabelecida conexão com servidor portal (accept())
+19:10:44 ----> ploc: recebida mensagem
+19:10:44 ----> ploc: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:10:44 ----> ploc: arquivo fonte compilado e executado
+19:10:44 ----> ploc: enviada resposta de execução ao portal!
+19:10:44 ----> -------------------------------------------------------------------------------------------------------------
+19:11:09 ----> ploc: estabelecida conexão com servidor portal (accept())
+19:11:09 ----> ploc: recebida mensagem
+19:11:09 ----> ploc: criado arquivo fonte (fibonacci.py) do cliente: dorno
+19:11:09 ----> ploc: arquivo fonte compilado e executado
+19:11:09 ----> ploc: enviada resposta de execução ao portal!
+19:11:09 ----> -------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+14:32:41 ----> mumm: criado socket
+14:32:41 ----> mumm: realizado bind() na porta: 1235
+14:32:41 ----> mumm: esperando por conexão (listen())
+14:32:41 ----> -------------------------------------------------------------------------------------------------------------
+14:36:21 ----> mumm: estabelecida conexão com servidor portal
+14:36:21 ----> mumm: recebido arquivo fonte (teste.py) do servidor portal: caporal
+14:36:21 ----> mumm: criado arquivo fonte (teste.py) do cliente: mumm
+14:36:21 ----> mumm: arquivo fonte compilado e executado
+14:36:21 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:36:21 ----> -------------------------------------------------------------------------------------------------------------
+14:36:49 ----> mumm: estabelecida conexão com servidor portal
+14:36:49 ----> mumm: recebido arquivo fonte (lista.py) do servidor portal: caporal
+14:36:49 ----> mumm: criado arquivo fonte (lista.py) do cliente: mumm
+14:36:49 ----> mumm: arquivo fonte compilado e executado
+14:36:49 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:36:49 ----> -------------------------------------------------------------------------------------------------------------
+14:38:20 ----> mumm: estabelecida conexão com servidor portal
+14:38:20 ----> mumm: recebido arquivo fonte (lista.py) do servidor portal: caporal
+14:38:21 ----> mumm: criado arquivo fonte (lista.py) do cliente: mumm
+14:38:21 ----> mumm: arquivo fonte compilado e executado
+14:38:21 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:38:21 ----> -------------------------------------------------------------------------------------------------------------
+14:39:13 ----> mumm: estabelecida conexão com servidor portal
+14:39:13 ----> mumm: recebido arquivo fonte (fibonacci.py) do servidor portal: caporal
+14:39:13 ----> mumm: criado arquivo fonte (fibonacci.py) do cliente: mumm
+14:39:13 ----> mumm: arquivo fonte compilado e executado
+14:39:13 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:39:13 ----> -------------------------------------------------------------------------------------------------------------
+14:39:37 ----> mumm: estabelecida conexão com servidor portal
+14:39:37 ----> mumm: recebido arquivo fonte (lista.py) do servidor portal: caporal
+14:39:37 ----> mumm: criado arquivo fonte (lista.py) do cliente: mumm
+14:39:37 ----> mumm: arquivo fonte compilado e executado
+14:39:37 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:39:37 ----> -------------------------------------------------------------------------------------------------------------
+14:39:47 ----> mumm: estabelecida conexão com servidor portal
+14:39:47 ----> mumm: recebido arquivo fonte (numerosPerfeitos.py) do servidor portal: caporal
+14:39:47 ----> mumm: criado arquivo fonte (numerosPerfeitos.py) do cliente: mumm
+14:39:47 ----> mumm: arquivo fonte compilado e executado
+14:39:47 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:39:47 ----> -------------------------------------------------------------------------------------------------------------
+14:39:59 ----> mumm: estabelecida conexão com servidor portal
+14:39:59 ----> mumm: recebido arquivo fonte (teste.py) do servidor portal: caporal
+14:39:59 ----> mumm: criado arquivo fonte (teste.py) do cliente: mumm
+14:39:59 ----> mumm: arquivo fonte compilado e executado
+14:39:59 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:39:59 ----> -------------------------------------------------------------------------------------------------------------
+14:40:19 ----> mumm: estabelecida conexão com servidor portal
+14:40:19 ----> mumm: recebido arquivo fonte (lista.py) do servidor portal: caporal
+14:40:19 ----> mumm: criado arquivo fonte (lista.py) do cliente: mumm
+14:40:19 ----> mumm: arquivo fonte compilado e executado
+14:40:19 ----> mumm: enviada resposta de execução ao servidor portal: mumm
+14:40:19 ----> -------------------------------------------------------------------------------------------------------------
